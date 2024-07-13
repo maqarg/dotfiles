@@ -3,10 +3,7 @@
 	name = mq
 	email = maqarg@gmail.com
 [gui]
-	recentrepo = C:/Users/user/sbrteam Dropbox/sbr Admin/sharedSrbteam/comunes/srv228Scripts
-	recentrepo = C:/Users/user/sbrteam Dropbox/sbr Admin/sharedSrbteam/comunes/srv228Scripts/.git
-	recentrepo = C:/Users/user/sbrteam Dropbox/sbr Admin/sharedSrbteam/comunes/srv248Scripts
-	  whitespace = "#ffff00" reverse
+	whitespace = "#ffff00" reverse
 
 [diff]
 [color]
