@@ -1,7 +1,14 @@
 #2024-07-04 23:08 viene del archivo de gary bernhardt
 [user]
 	name = mq
-	
+
+[core]
+  autocrlf = input         # Normaliza EOL: convierte CRLF a LF al commitear
+  eol = lf                 # Fuerza que se usen LF al hacer checkout
+  editor = nvim            # Editor por defecto para mensajes de commit
+  filemode = false         # Ignora cambios de permisos (útil en Windows)
+
+
 [gui]
 	whitespace = "#ffff00" reverse
 
