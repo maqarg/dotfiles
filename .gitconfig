@@ -1,6 +1,7 @@
 #2024-07-04 23:08 viene del archivo de gary bernhardt
 [user]
 	name = mq
+	email = user@user.com
 
 [core]
   autocrlf = input         # Normaliza EOL: convierte CRLF a LF al commitear
