@@ -74,6 +74,3 @@
 [merge]
     tool = vimdiff
 
-#2024-07-04-agregado maxi para que al hacer git diff no haga lio con ^M y los enter de linux
-[core]
-    autocrlf = true
