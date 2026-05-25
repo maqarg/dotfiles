@@ -4,7 +4,7 @@
 	email = user@user.com
 
 [core]
-  autocrlf = input         # Normaliza EOL: convierte CRLF a LF al commitear
+  autocrlf = false         # updated 2026-05-25-
   eol = lf                 # Fuerza que se usen LF al hacer checkout
   editor = vim             # Editor por defecto para mensajes de commit
   filemode = false         # Ignora cambios de permisos (útil en Windows)
